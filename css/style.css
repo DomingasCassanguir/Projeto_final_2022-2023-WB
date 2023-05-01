@@ -1,0 +1,71 @@
+.bg-anomart {
+	background-color: #e8172b;
+}
+
+.bg-white {
+	background-color: white;
+}
+
+.bg-footer {
+	background-color: #1A1A1A;
+}
+
+.txt-footer {
+	color: #D9172A;
+}
+
+.color-blue{
+	color: #0084ff;
+	text-decoration: none;
+	transition: 0.8s;
+}
+
+.color-blue:hover{
+	color: #D9172A;
+}
+
+.cor-white {
+	color: white;
+}
+
+.cinza-white {
+	color: #888;
+}
+
+
+.size-100 {
+	height: 100px;
+}
+
+.link-cor {
+	color: white;
+}
+
+.carousel-item {
+	width: 100%;
+	height: 600px;
+	background-image: url(../imagem/angomart1.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+}
+
+.legenda {
+	background-color: #0f040475;
+}
+
+.ver-detalhe {
+	font-size: 13pt;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.bl {
+	border-left: 6px solid #D9172A;
+}
+
+.bg-red-lite {
+	background-color: #f8c3c3;
+	color: #8b0000;
+}
